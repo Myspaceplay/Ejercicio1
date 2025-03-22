@@ -1,7 +1,2 @@
-# Ejercicio1
-
-# Ejercicio2
-
-#Ejercico3
-
-#Ejercicio4
+William López
+Jesus Felipe Jojoa
